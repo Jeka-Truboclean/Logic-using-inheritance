@@ -10,7 +10,4 @@ void Transport::Set(const char* fuel, double f_value, double weight)
 	this->weight = weight;
 }
 
-void Transport::Show_Data() const
-{
-	cout << "You didn't add -> virtual <-" << endl;
-}
+
